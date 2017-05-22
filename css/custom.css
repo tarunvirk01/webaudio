@@ -1,0 +1,39 @@
+/*body styles*/
+html, body {
+   height: 100%;
+   width: 100%;
+   margin: 0;
+   padding: 0;
+}
+
+.container {
+  height: 100%;
+  width: 100%;
+}
+h1, h2, h3 {
+  font-family: 'Oswald', sans-serif;
+}
+
+p {
+  font-family: 'Open Sans', sans-serif;
+  color: #FFFCED;
+}
+
+.jumbotron {
+  background-color: #2C2A3D;
+  color: #FFFCED;
+  height: 50%;
+}
+
+a {
+  text-decoration: none;
+}
+
+footer {
+  bottom: 0;
+}
+
+p small {
+    color: black;
+    bottom: 0;
+}
